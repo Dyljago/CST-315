@@ -1,0 +1,9 @@
+// Adonijah Farner and Dylan Johnson
+// Project 1 Hello World Program
+#include <stdio.h>
+
+int main()
+{
+  printf("Hello World\n");
+  return 0;
+}
